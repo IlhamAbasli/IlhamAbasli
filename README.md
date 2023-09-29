@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ilham Abaslı</h1>
 <h3 align="center">A passionate full-stack developer from Azerbaijan</h3>
-![https://media.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif]()
+<iframe src="https://giphy.com/embed/wcgn5fVDjvR7pdvz4C" width="480" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-work-computer-pro-wcgn5fVDjvR7pdvz4C">via GIPHY</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
