@@ -1,5 +1,5 @@
 <p align = "center">
-![Demo](https://media.giphy.com/media/FcT1BFYoHwJxu/giphy.gif)
+  <img src = "https://media.giphy.com/media/FcT1BFYoHwJxu/giphy.gif" alt = "animated" />
 </p>
 <h1 align="center">Hi 👋, I'm Ilham Abaslı</h1>
 <h3 align="center">A passionate full-stack developer from Azerbaijan</h3>
