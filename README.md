@@ -9,7 +9,7 @@
 <a href="https://fb.com/ilham.abasli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ilham.abasli" height="30" width="40" /></a>
 <a href="https://instagram.com/ilham_abasli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilham_abasli" height="30" width="40" /></a>
 </p>
-<p align = "right">
+<p align = "center">
   <img src = "https://media.giphy.com/media/FcT1BFYoHwJxu/giphy.gif" alt = "animated" />
 </p>
 
