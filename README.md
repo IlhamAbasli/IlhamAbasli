@@ -1,8 +1,9 @@
 
-![MasterHead](https://media.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif)
+
 
 <h1 align="center">Hi 👋, I'm Ilham Abaslı</h1>
 <h3 align="center">A passionate full-stack developer from Azerbaijan</h3>
+![MasterHead](https://media.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
