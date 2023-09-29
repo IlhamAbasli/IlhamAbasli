@@ -1,9 +1,7 @@
 
-
-
 <h1 align="center">Hi 👋, I'm Ilham Abaslı</h1>
 <h3 align="center">A passionate full-stack developer from Azerbaijan</h3>
-<p> gif align="right" src = "https://media.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif" alt = "ilhamabasli" /></p>
+![](https://media.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
