@@ -3,7 +3,7 @@
   <img src = "https://media.giphy.com/media/FcT1BFYoHwJxu/giphy.gif" alt = "animated" />
 </p>
 # 💫 About Me:
-Hi 👋, I'm Ilham Abaslı
+<h1 align="center">Hi 👋, I'm Ilham Abaslı</h1>
 
 
 ## 🌐 Socials:
