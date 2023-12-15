@@ -1,6 +1,6 @@
 </p>
 <p align = "center">
-  <img src = "https://i.pinimg.com/originals/ad/f2/44/adf24453f30f2e3ccbc3e6215990d3bf.gif" alt = "animated" />
+  <img src = "https://i.pinimg.com/originals/f7/18/a3/f718a3e712668e04b80e36eedb87aeb9.gif" alt = "animated" />
 </p>
 <h1 align="center">Hi 👋, I'm Ilham Abaslı</h1>
 
