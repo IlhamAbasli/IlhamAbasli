@@ -1,5 +1,4 @@
-</p>
-[![Make-your-README.png](https://i.postimg.cc/g2Ghq72S/Make-your-README.png)](https://postimg.cc/JGdtRPJZ)
+<img src = "https://i.postimg.cc/g2Ghq72S/Make-your-README.png"/>
 <h1 align="center">Hi 👋, I'm Ilham Abaslı</h1>
 
 
